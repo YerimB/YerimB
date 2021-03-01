@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/YerimB/YerimB/blob/master/Assets/cpp.svg"/>
-  <img src="https://github.com/YerimB/YerimB/blob/master/Assets/c.svg"/>
+  <img src="https://github.com/YerimB/YerimB/master/Assets/cpp.svg"/>
+  <img src="https://github.com/YerimB/YerimB/master/Assets/c.svg"/>
 </p>
 
 <h2 align="center">📈 Github Stats</h2>
