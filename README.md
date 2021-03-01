@@ -3,6 +3,12 @@
 <p align="center">
   <img src="https://github.com/YerimB/YerimB/blob/main/Assets/cpp.svg"/>
   <img src="https://github.com/YerimB/YerimB/blob/main/Assets/c.svg"/>
+  <img src="https://github.com/YerimB/YerimB/blob/main/Assets/python.svg"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/YerimB/YerimB/blob/main/Assets/visualstudio_code.svg"/>
+  <img src="https://github.com/YerimB/YerimB/blob/main/Assets/visualstudio.svg"/>
 </p>
 
 <h2 align="center">📈 Github Stats</h2>
