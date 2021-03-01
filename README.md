@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center">YerimB 🤖</h2
+  <h2 align="center">🤖 YerimB</h2
 </p>
 
 - 👷 I'm currently learning data science & machine learning
