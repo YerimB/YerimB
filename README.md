@@ -1,5 +1,10 @@
-### Hi there 👋
+<p align="center">
+  <h2 align="center">YerimB 🤖</h2
+</p>
 
+- 👷 I'm currently learning data science & machine learning
+
+<h2 align="center">⚙️ Languages & Tools</h2>
 <p align="center">
   <img src="https://github.com/YerimB/YerimB/blob/main/Assets/cpp.svg"/>
   <img src="https://github.com/YerimB/YerimB/blob/main/Assets/c.svg"/>
