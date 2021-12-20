@@ -2,7 +2,7 @@
   <h2 align="center">🤖 YerimB</h2
 </p>
 
-- 👷 I'm currently learning data science & machine learning
+- 👷 I'm currently learning blockchain development & concepts
 
 <h2 align="center">⚙️ Languages & Tools</h2>
 <p align="center">
