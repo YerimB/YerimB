@@ -3,7 +3,8 @@
 </p>
 
     Just a dev trying to learn a lot 🤔
-    Machine Learning, Blockchain, all that stuff interesting isn't it ?
+    Machine learning, blockchain, all this stuff sounds interesting, doesn't it ?
+    You probably should take a look at it
 
 <h2 align="center">⚙️ Languages & Tools</h2>
 <p align="center">
