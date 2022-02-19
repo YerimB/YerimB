@@ -4,9 +4,9 @@
 
     Just a dev trying to learn a lot 🤔
     Machine learning, blockchain, all this stuff sounds interesting, doesn't it ?
-    You probably should take a look at it
+    You probably should take a look at it.
 
-<h2 align="center">⚙️ Languages & Tools</h2>
+<h2 align="center">⚙️ Languages, Tools & Subjects</h2>
 <p align="center">
   <img src="https://github.com/YerimB/YerimB/blob/main/Assets/cpp.svg"/>
   <img src="https://github.com/YerimB/YerimB/blob/main/Assets/c.svg"/>
@@ -16,6 +16,11 @@
 <p align="center">
   <img src="https://github.com/YerimB/YerimB/blob/main/Assets/visualstudio_code.svg"/>
   <img src="https://github.com/YerimB/YerimB/blob/main/Assets/visualstudio.svg"/>
+</p>
+    
+<p align="center">
+  <img src="https://github.com/YerimB/YerimB/blob/main/Assets/datascience.svg"/>
+  <img src="https://github.com/YerimB/YerimB/blob/main/Assets/ai.svg"/>
 </p>
 
 <h2 align="center">📈 Github Stats</h2>
