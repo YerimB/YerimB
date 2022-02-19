@@ -2,6 +2,9 @@
   <h2 align="center">🤖 YerimB</h2
 </p>
 
+    Just a dev trying to learn a lot 🤔
+    Machine Learning, Blockchain, all that stuff interesting isn't it ?
+
 <h2 align="center">⚙️ Languages & Tools</h2>
 <p align="center">
   <img src="https://github.com/YerimB/YerimB/blob/main/Assets/cpp.svg"/>
