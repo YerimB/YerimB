@@ -3,6 +3,7 @@
 </p>
 
     Just a dev trying to learn a lot 🤔
+    Learning Rust... 💻
     Machine learning, blockchain, all this stuff sounds interesting, doesn't it ?
 
 <h2 align="center">⚙️ Languages, Tools & Subjects</h2>
