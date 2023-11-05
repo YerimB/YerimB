@@ -4,7 +4,7 @@
 
     Just a dev trying to learn a lot 🤔
     Learning Rust... 💻
-    Machine learning, blockchain, all this stuff sounds interesting, doesn't it ?
+    Machine learning, blockchain, all this stuff sounds interesting to me.
 
 <h2 align="center">⚙️ Languages, Tools & Subjects</h2>
 <p align="center">
